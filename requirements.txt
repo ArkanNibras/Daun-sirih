@@ -1,12 +1,8 @@
-# ─── Desktop App ────────────────────────────────────────────
-#tensorflow>=2.10.0
+streamlit==1.32.0
+
+tensorflow-cpu==2.15.0
 numpy
 matplotlib
 Pillow
 scikit-learn
-opencv-python
-customtkinter
-
-# ─── Streamlit Web App ──────────────────────────────────────
-streamlit>=1.32.0
 opencv-python-headless
